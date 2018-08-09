@@ -11,6 +11,9 @@
     <modules>
         <module>hbaseapi</module>
         <module>HBaseobservetest</module>
+        <module>HBasemonitor</module>
+        <module>phoenix_test</module>
+        <module>phoenixmybatis</module>
     </modules>
 
 
